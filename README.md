@@ -15,12 +15,14 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 I work with
 <p>
     <a href="https://github.com/search?q=user%3Aandreu64388+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aandreu64388+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3Aandreu64388+language%3Asass"><img alt="JS" src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square&logo=JavaScript&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3Aandreu64388+language%3Asass"><img alt="REACT" src="https://img.shields.io/badge/React-blue.svg?style=flat-square&logo=React&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3Aandreu64388+language%3Aredux"><img alt="REDUX" src="https://img.shields.io/badge/Redux-purple.svg?style=flat-square&logo=Redux&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Aandreu64388+language%3Amaterial-ui"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-darkcyan.svg?style=flat-square&logo=Mui&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aandreu64388+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-darkblue.svg?style=flat-square&logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aandreu64388+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"></a>
  
