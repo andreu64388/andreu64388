@@ -26,6 +26,7 @@
   <a href="https://github.com/search?q=user%3Aandreu64388+language%3Amaterial-ui"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-darkcyan.svg?style=flat-square&logo=Mui&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aandreu64388+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-darkblue.svg?style=flat-square&logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aandreu64388+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ATonyMaerro+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/CS-5151ff.svg?style=flat-square&logo=CSHARP&logoColor=white"></a>
  
  
   
